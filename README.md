@@ -15,6 +15,7 @@
 - TailwindCSS
 - Framer Motion
 - React Router
+- Nodejs/express
 
 ## 🚀 Getting Started
 
@@ -31,3 +32,4 @@ npm start
 
 # Build for production
 npm run build
+
